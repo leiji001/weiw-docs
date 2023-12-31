@@ -37,10 +37,8 @@
     <a href="#BackTop"></a><img style="width:100%;height:100%" src="../../../wap/images/default.jpg"></a>
 
 > 还有一个方法, 右键图片 > 链接 > 外部链接 > 填入`#BackTop`  
-这样也能实现返回顶部的链接  
+这样也能实现返回顶部的链接
 
-效果预览  
-![Alt text](PixPin_2023-12-31_17-55-23.gif)
 
 ---
 
@@ -63,6 +61,3 @@
 修改后源代码如下
 
     <img id="returnTop" style="width:100%;height:100%;display:none" src="../../../wap/images/default.jpg">
-
-效果预览  
-![Alt text](PixPin_2023-12-31_17-52-37.gif)
