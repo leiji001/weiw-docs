@@ -12,4 +12,4 @@
 
     npm run docs:build
 
-编译输出路径`.vitepress/dist`
+编译文件路径 `.vitepress/dist`
