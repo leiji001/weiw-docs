@@ -15,13 +15,14 @@ export default defineConfig({
       {
         text: '代码',
         items: [
-          { text: '返回顶部', link: '/weiwcode/BackTop.md' }
+          { text: '返回顶部', link: '/weiwcode/BackTop.md' },
+          { text: '输入框文字修改', link: '/weiwcode/ModifyInputBox.md'}
         ]
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/leiji001/weiw-docs' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/leiji001/weiw-docs' }
+    // ]
   }
 })

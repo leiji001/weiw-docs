@@ -4,4 +4,5 @@
 
 ## 代码相关
 
-[返回顶部](/weiwcode/BackTop.md)
+[返回顶部](/weiwcode/BackTop.md)  
+[输入框文字修改](/weiwcode/ModifyInputBox.md)
